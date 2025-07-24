@@ -1,0 +1,759 @@
+{
+    "items": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+            },
+            "followers": {
+                "href": null,
+                "total": 938159
+            },
+            "genres": [
+                "hindi indie",
+                "indian indie",
+                "desi pop",
+                "hindi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3ozYqVCLohfpXIhalkhM8D",
+            "id": "3ozYqVCLohfpXIhalkhM8D",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb482c8b15eab378fdebc5e05e",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174482c8b15eab378fdebc5e05e",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178482c8b15eab378fdebc5e05e",
+                    "width": 160
+                }
+            ],
+            "name": "Aditya Rikhari",
+            "popularity": 77,
+            "type": "artist",
+            "uri": "spotify:artist:3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+            },
+            "followers": {
+                "href": null,
+                "total": 1615577
+            },
+            "genres": [
+                "hindi indie",
+                "indian indie",
+                "hindi hip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2cjQTf2J5yCaNY8qHpW855",
+            "id": "2cjQTf2J5yCaNY8qHpW855",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb247be1061acfd9eca62fed3c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174247be1061acfd9eca62fed3c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178247be1061acfd9eca62fed3c",
+                    "width": 160
+                }
+            ],
+            "name": "AUR",
+            "popularity": 63,
+            "type": "artist",
+            "uri": "spotify:artist:2cjQTf2J5yCaNY8qHpW855"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+            },
+            "followers": {
+                "href": null,
+                "total": 37414521
+            },
+            "genres": [
+                "bollywood",
+                "hindi pop",
+                "desi",
+                "sufi",
+                "qawwali"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+            "id": "2oSONSC9zQ4UonDKnLqksx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebc40600e02356cc86f0debe84",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178c40600e02356cc86f0debe84",
+                    "width": 160
+                }
+            ],
+            "name": "Atif Aslam",
+            "popularity": 82,
+            "type": "artist",
+            "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+            },
+            "followers": {
+                "href": null,
+                "total": 121280057
+            },
+            "genres": [
+                "soft pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+            "id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb399444ed4eace08b549d1161",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174399444ed4eace08b549d1161",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178399444ed4eace08b549d1161",
+                    "width": 160
+                }
+            ],
+            "name": "Ed Sheeran",
+            "popularity": 92,
+            "type": "artist",
+            "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+            },
+            "followers": {
+                "href": null,
+                "total": 9333964
+            },
+            "genres": [
+                "desi hip hop",
+                "hindi hip hop",
+                "desi pop",
+                "hindi pop",
+                "hindi indie"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5NHm4TU5Twz7owibYxJfFU",
+            "id": "5NHm4TU5Twz7owibYxJfFU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb8c90f6f4bf454e362076ca39",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051748c90f6f4bf454e362076ca39",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1788c90f6f4bf454e362076ca39",
+                    "width": 160
+                }
+            ],
+            "name": "King",
+            "popularity": 68,
+            "type": "artist",
+            "uri": "spotify:artist:5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+            },
+            "followers": {
+                "href": null,
+                "total": 6739077
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie",
+                "hindi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+            "id": "4gdMJYnopf2nEUcanAwstx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba837a6cb82dd949d5e1f9b53",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178a837a6cb82dd949d5e1f9b53",
+                    "width": 160
+                }
+            ],
+            "name": "Anuv Jain",
+            "popularity": 75,
+            "type": "artist",
+            "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            },
+            "followers": {
+                "href": null,
+                "total": 54464446
+            },
+            "genres": [
+                "bollywood",
+                "hindi pop",
+                "desi"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+            "id": "1wRPtKGflJrBx9BmLsSwlU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178cb6926f44f620555ba444fca",
+                    "width": 160
+                }
+            ],
+            "name": "Pritam",
+            "popularity": 91,
+            "type": "artist",
+            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            },
+            "followers": {
+                "href": null,
+                "total": 153325401
+            },
+            "genres": [
+                "hindi pop",
+                "bollywood",
+                "desi",
+                "bangla pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb5ba2d75eb08a2d672f9b69b7",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1785ba2d75eb08a2d672f9b69b7",
+                    "width": 160
+                }
+            ],
+            "name": "Arijit Singh",
+            "popularity": 93,
+            "type": "artist",
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+            },
+            "followers": {
+                "href": null,
+                "total": 3416246
+            },
+            "genres": [
+                "hindi pop",
+                "bollywood",
+                "desi",
+                "hindi indie"
+            ],
+            "href": "https://api.spotify.com/v1/artists/74OaRjmyh0XyRZsQQQ5l7c",
+            "id": "74OaRjmyh0XyRZsQQQ5l7c",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb852737800de564b2c0efe165",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174852737800de564b2c0efe165",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178852737800de564b2c0efe165",
+                    "width": 160
+                }
+            ],
+            "name": "Jasleen Royal",
+            "popularity": 74,
+            "type": "artist",
+            "uri": "spotify:artist:74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+            },
+            "followers": {
+                "href": null,
+                "total": 8824906
+            },
+            "genres": [
+                "bollywood",
+                "hindi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5wJ1H6ud777odtZl5gG507",
+            "id": "5wJ1H6ud777odtZl5gG507",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebfb13d10be20fdcb5a670f551",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174fb13d10be20fdcb5a670f551",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178fb13d10be20fdcb5a670f551",
+                    "width": 160
+                }
+            ],
+            "name": "Vishal Mishra",
+            "popularity": 78,
+            "type": "artist",
+            "uri": "spotify:artist:5wJ1H6ud777odtZl5gG507"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+            },
+            "followers": {
+                "href": null,
+                "total": 635053
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie",
+                "desi",
+                "desi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5mWQT8CLTa4mAQAJdFjHb1",
+            "id": "5mWQT8CLTa4mAQAJdFjHb1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb515cd04b930af60033f5cf9a",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174515cd04b930af60033f5cf9a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178515cd04b930af60033f5cf9a",
+                    "width": 160
+                }
+            ],
+            "name": "Abdul Hannan",
+            "popularity": 58,
+            "type": "artist",
+            "uri": "spotify:artist:5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+            },
+            "followers": {
+                "href": null,
+                "total": 437839
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie",
+                "desi"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3atMq790wQ7IqjeSO0HFeP",
+            "id": "3atMq790wQ7IqjeSO0HFeP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebda0474ae01d3454b6f5d816b",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174da0474ae01d3454b6f5d816b",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178da0474ae01d3454b6f5d816b",
+                    "width": 160
+                }
+            ],
+            "name": "Bayaan",
+            "popularity": 61,
+            "type": "artist",
+            "uri": "spotify:artist:3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+            },
+            "followers": {
+                "href": null,
+                "total": 1107189
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+            "id": "0tC995Rfn9k2l7nqgCZsV7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb284fbc05b35f3a52501ba30a",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174284fbc05b35f3a52501ba30a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178284fbc05b35f3a52501ba30a",
+                    "width": 160
+                }
+            ],
+            "name": "Prateek Kuhad",
+            "popularity": 63,
+            "type": "artist",
+            "uri": "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+            },
+            "followers": {
+                "href": null,
+                "total": 6588157
+            },
+            "genres": [
+                "gujarati pop",
+                "bollywood",
+                "hindi pop",
+                "desi",
+                "gujarati garba"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+            "id": "1mBydYMVBECdDmMfE2sEUO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebbb4064bef3a825344d5eb79e",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178bb4064bef3a825344d5eb79e",
+                    "width": 160
+                }
+            ],
+            "name": "Sachin-Jigar",
+            "popularity": 83,
+            "type": "artist",
+            "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+            },
+            "followers": {
+                "href": null,
+                "total": 14141843
+            },
+            "genres": [
+                "bollywood",
+                "desi",
+                "hindi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+            "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17890b6c3d093f9b02aad628eaf",
+                    "width": 160
+                }
+            ],
+            "name": "Vishal-Shekhar",
+            "popularity": 82,
+            "type": "artist",
+            "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+            },
+            "followers": {
+                "href": null,
+                "total": 1770547
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7b6Ui7JVaBDEfZB9k6nHL0",
+            "id": "7b6Ui7JVaBDEfZB9k6nHL0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb7aa6748dcf92d2eff597f154",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051747aa6748dcf92d2eff597f154",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1787aa6748dcf92d2eff597f154",
+                    "width": 160
+                }
+            ],
+            "name": "The Local Train",
+            "popularity": 63,
+            "type": "artist",
+            "uri": "spotify:artist:7b6Ui7JVaBDEfZB9k6nHL0"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+            },
+            "followers": {
+                "href": null,
+                "total": 750900
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie",
+                "desi pop",
+                "desi",
+                "hindi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3iGhlvzpXc0UHBQ7klAItX",
+            "id": "3iGhlvzpXc0UHBQ7klAItX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebe96a339b04840c8fb801ccb4",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174e96a339b04840c8fb801ccb4",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178e96a339b04840c8fb801ccb4",
+                    "width": 160
+                }
+            ],
+            "name": "Mitraz",
+            "popularity": 67,
+            "type": "artist",
+            "uri": "spotify:artist:3iGhlvzpXc0UHBQ7klAItX"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+            },
+            "followers": {
+                "href": null,
+                "total": 1978551
+            },
+            "genres": [
+                "desi",
+                "sufi"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1ZChN8G1Y7CJ0TXbrvblwS",
+            "id": "1ZChN8G1Y7CJ0TXbrvblwS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebe84561aaeaf8ab925bc5914b",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174e84561aaeaf8ab925bc5914b",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178e84561aaeaf8ab925bc5914b",
+                    "width": 160
+                }
+            ],
+            "name": "Asim Azhar",
+            "popularity": 61,
+            "type": "artist",
+            "uri": "spotify:artist:1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+            },
+            "followers": {
+                "href": null,
+                "total": 14842995
+            },
+            "genres": [
+                "bollywood",
+                "hindi pop",
+                "desi"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB",
+            "id": "0E02VcvA5p1ndkLdqWD5JB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb4d9659081d3facaf14e427b1",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051744d9659081d3facaf14e427b1",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1784d9659081d3facaf14e427b1",
+                    "width": 160
+                }
+            ],
+            "name": "Ankit Tiwari",
+            "popularity": 71,
+            "type": "artist",
+            "uri": "spotify:artist:0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            },
+            "followers": {
+                "href": null,
+                "total": 26050685
+            },
+            "genres": [
+                "gujarati garba",
+                "hindi pop",
+                "gujarati pop",
+                "bollywood",
+                "desi pop",
+                "desi"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
+            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba80a803733f6a070e8f873fb",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174a80a803733f6a070e8f873fb",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178a80a803733f6a070e8f873fb",
+                    "width": 160
+                }
+            ],
+            "name": "Darshan Raval",
+            "popularity": 75,
+            "type": "artist",
+            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+    ],
+    "total": 58,
+    "limit": 20,
+    "offset": 0,
+    "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=20&time_range=medium_term",
+    "next": "https://api.spotify.com/v1/me/top/artists?offset=20&limit=20&time_range=medium_term",
+    "previous": null
+}
