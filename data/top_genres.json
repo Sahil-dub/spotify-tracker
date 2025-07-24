@@ -1,16 +1,14 @@
 {
-    "hindi indie": 10,
-    "indian indie": 8,
-    "desi pop": 5,
-    "hindi pop": 13,
-    "hindi hip hop": 2,
-    "bollywood": 9,
-    "desi": 12,
-    "sufi": 2,
-    "qawwali": 1,
-    "soft pop": 1,
-    "desi hip hop": 1,
-    "bangla pop": 1,
-    "gujarati pop": 2,
-    "gujarati garba": 2
+  "hindi indie": 5,
+  "indian indie": 3,
+  "desi pop": 2,
+  "hindi pop": 8,
+  "hindi hip hop": 2,
+  "bollywood": 5,
+  "desi": 4,
+  "sufi": 1,
+  "qawwali": 1,
+  "soft pop": 1,
+  "desi hip hop": 1,
+  "bangla pop": 1
 }

@@ -1,36 +1,42 @@
 import json
-import spotipy
-from collections import Counter
-from spotipy.oauth2 import SpotifyOAuth
+from auth import sp
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
-    client_id="YOUR_CLIENT_ID",
-    client_secret="YOUR_CLIENT_SECRET",
-    redirect_uri="http://localhost:8888/callback",
-    scope="user-top-read user-read-recently-played"
-))
+# Top Artists
+top_artists = sp.current_user_top_artists(limit=10, time_range="medium_term")
 
-# Create data folder if it doesn't exist
-import os
-os.makedirs("data", exist_ok=True)
-
-# Fetch top artists
-top_artists = sp.current_user_top_artists(limit=20, time_range='medium_term')
-with open("data/top_artists.json", "w", encoding="utf-8") as f:
-    json.dump(top_artists, f, indent=4)
-
-# Extract and count genres
-all_genres = []
+artist_data = []
 for artist in top_artists['items']:
-    all_genres.extend(artist['genres'])
+    artist_data.append({
+        'name': artist['name'],
+        'popularity': artist['popularity'],
+        'genres': artist['genres'],
+        'followers': artist['followers']['total']
+    })
 
-genre_counts = Counter(all_genres)
+with open("data/top_artists.json", "w", encoding="utf-8") as f:
+    json.dump(artist_data, f, indent=2)
+
+# Top Genres
+genre_count = {}
+for artist in artist_data:
+    for genre in artist['genres']:
+        genre_count[genre] = genre_count.get(genre, 0) + 1
+
 with open("data/top_genres.json", "w", encoding="utf-8") as f:
-    json.dump(dict(genre_counts), f, indent=4)
+    json.dump(genre_count, f, indent=2)
 
-# Fetch recently played tracks
-recent_tracks = sp.current_user_recently_played(limit=50)
+# Recent Tracks
+recent_tracks = sp.current_user_recently_played(limit=20)
+recent_data = []
+for item in recent_tracks['items']:
+    track = item['track']
+    recent_data.append({
+        'track_name': track['name'],
+        'artist': track['artists'][0]['name'],
+        'played_at': item['played_at']
+    })
+
 with open("data/recent_tracks.json", "w", encoding="utf-8") as f:
-    json.dump(recent_tracks, f, indent=4)
+    json.dump(recent_data, f, indent=2)
 
-print("Data fetching complete.")
+print("✅ Data updated successfully.")
