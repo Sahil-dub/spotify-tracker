@@ -6,7 +6,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 938159
+                "total": 942859
             },
             "genres": [
                 "hindi indie",
@@ -44,7 +44,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 1615577
+                "total": 1616584
             },
             "genres": [
                 "hindi indie",
@@ -81,7 +81,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 37414521
+                "total": 37440027
             },
             "genres": [
                 "bollywood",
@@ -120,7 +120,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 121280057
+                "total": 121292831
             },
             "genres": [
                 "soft pop"
@@ -151,11 +151,48 @@
         },
         {
             "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+            },
+            "followers": {
+                "href": null,
+                "total": 6749276
+            },
+            "genres": [
+                "indian indie",
+                "hindi indie",
+                "hindi pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+            "id": "4gdMJYnopf2nEUcanAwstx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba837a6cb82dd949d5e1f9b53",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178a837a6cb82dd949d5e1f9b53",
+                    "width": 160
+                }
+            ],
+            "name": "Anuv Jain",
+            "popularity": 75,
+            "type": "artist",
+            "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+        },
+        {
+            "external_urls": {
                 "spotify": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
             },
             "followers": {
                 "href": null,
-                "total": 9333964
+                "total": 9334873
             },
             "genres": [
                 "desi hip hop",
@@ -190,48 +227,11 @@
         },
         {
             "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-            },
-            "followers": {
-                "href": null,
-                "total": 6739077
-            },
-            "genres": [
-                "indian indie",
-                "hindi indie",
-                "hindi pop"
-            ],
-            "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
-            "id": "4gdMJYnopf2nEUcanAwstx",
-            "images": [
-                {
-                    "height": 640,
-                    "url": "https://i.scdn.co/image/ab6761610000e5eba837a6cb82dd949d5e1f9b53",
-                    "width": 640
-                },
-                {
-                    "height": 320,
-                    "url": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53",
-                    "width": 320
-                },
-                {
-                    "height": 160,
-                    "url": "https://i.scdn.co/image/ab6761610000f178a837a6cb82dd949d5e1f9b53",
-                    "width": 160
-                }
-            ],
-            "name": "Anuv Jain",
-            "popularity": 75,
-            "type": "artist",
-            "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
-        },
-        {
-            "external_urls": {
                 "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
             },
             "followers": {
                 "href": null,
-                "total": 54464446
+                "total": 54507696
             },
             "genres": [
                 "bollywood",
@@ -268,7 +268,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 153325401
+                "total": 153405370
             },
             "genres": [
                 "hindi pop",
@@ -306,7 +306,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 3416246
+                "total": 3418222
             },
             "genres": [
                 "hindi pop",
@@ -344,7 +344,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 8824906
+                "total": 8832554
             },
             "genres": [
                 "bollywood",
@@ -380,7 +380,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 635053
+                "total": 635347
             },
             "genres": [
                 "indian indie",
@@ -418,7 +418,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 437839
+                "total": 438388
             },
             "genres": [
                 "indian indie",
@@ -455,7 +455,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 1107189
+                "total": 1107330
             },
             "genres": [
                 "indian indie",
@@ -491,7 +491,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 6588157
+                "total": 6596711
             },
             "genres": [
                 "gujarati pop",
@@ -530,7 +530,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 14141843
+                "total": 14157398
             },
             "genres": [
                 "bollywood",
@@ -567,7 +567,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 1770547
+                "total": 1770978
             },
             "genres": [
                 "indian indie",
@@ -603,7 +603,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 750900
+                "total": 751177
             },
             "genres": [
                 "indian indie",
@@ -642,7 +642,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 1978551
+                "total": 1978933
             },
             "genres": [
                 "desi",
@@ -678,7 +678,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 14842995
+                "total": 14845239
             },
             "genres": [
                 "bollywood",
@@ -715,7 +715,7 @@
             },
             "followers": {
                 "href": null,
-                "total": 26050685
+                "total": 26055553
             },
             "genres": [
                 "gujarati garba",

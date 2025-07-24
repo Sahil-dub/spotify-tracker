@@ -1,45 +1,36 @@
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
-import os
 import json
-from dotenv import load_dotenv
-
-load_dotenv()
-
-scope = "user-top-read user-read-recently-played"
+import spotipy
+from collections import Counter
+from spotipy.oauth2 import SpotifyOAuth
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
-    client_id=os.getenv("SPOTIPY_CLIENT_ID"),
-    client_secret=os.getenv("SPOTIPY_CLIENT_SECRET"),
-    redirect_uri=os.getenv("SPOTIPY_REDIRECT_URI"),
-    scope=scope
+    client_id="YOUR_CLIENT_ID",
+    client_secret="YOUR_CLIENT_SECRET",
+    redirect_uri="http://localhost:8888/callback",
+    scope="user-top-read user-read-recently-played"
 ))
 
-def save_json(data, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+# Create data folder if it doesn't exist
+import os
+os.makedirs("data", exist_ok=True)
 
-def fetch_top_artists():
-    results = sp.current_user_top_artists(limit=20, time_range='medium_term')
-    save_json(results, 'top_artists.json')
-    print(f"Saved top artists to top_artists.json")
+# Fetch top artists
+top_artists = sp.current_user_top_artists(limit=20, time_range='medium_term')
+with open("data/top_artists.json", "w", encoding="utf-8") as f:
+    json.dump(top_artists, f, indent=4)
 
-def fetch_recently_played():
-    results = sp.current_user_recently_played(limit=20)
-    save_json(results, 'recently_played.json')
-    print(f"Saved recently played tracks to recently_played.json")
+# Extract and count genres
+all_genres = []
+for artist in top_artists['items']:
+    all_genres.extend(artist['genres'])
 
-def extract_genres():
-    with open('top_artists.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    genres = []
-    for artist in data['items']:
-        genres.extend(artist.get('genres', []))
-    unique_genres = list(set(genres))
-    save_json(unique_genres, 'top_genres.json')
-    print(f"Saved extracted genres to top_genres.json")
+genre_counts = Counter(all_genres)
+with open("data/top_genres.json", "w", encoding="utf-8") as f:
+    json.dump(dict(genre_counts), f, indent=4)
 
-if __name__ == "__main__":
-    fetch_top_artists()
-    fetch_recently_played()
-    extract_genres()
+# Fetch recently played tracks
+recent_tracks = sp.current_user_recently_played(limit=50)
+with open("data/recent_tracks.json", "w", encoding="utf-8") as f:
+    json.dump(recent_tracks, f, indent=4)
+
+print("Data fetching complete.")
